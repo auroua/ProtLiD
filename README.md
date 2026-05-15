@@ -91,7 +91,8 @@ Main filtering criteria include:
 |---|---:|---:|---:|---:|---:|  
 | Complexa | 10.35 | 10.40 | 0.672 | 64.55 | -7.11 |  
 | ProtLiD² | 12.07 | 12.13 | 0.802 | 73.00 | -6.82 |  
-  Although Complexa obtains lower RMSD and slightly better average AF3-Vina score, ProtLiD² achieves substantially higher TM-score and pLDDT, suggesting stronger global fold consistency and sequence foldability.    
+
+Although Complexa obtains lower RMSD and slightly better average AF3-Vina score, ProtLiD² achieves substantially higher TM-score and pLDDT, suggesting stronger global fold consistency and sequence foldability.    
     
 ### Ligand-Binding Pocket Co-Design    
  ProtLiD² shows strong performance in local active-site reconstruction:    
@@ -101,7 +102,8 @@ Main filtering criteria include:
 | FAIR | 3.46 | 3.37 | 0.866 | 79.83 | -6.94 |  
 | PocketGen | 3.40 | 3.50 | 0.869 | 80.83 | -8.84 |  
 | ProtLiD² | 1.97 | 2.06 | 0.915 | 79.17 | -6.93 |  
-  ProtLiD² substantially reduces active-site RMSD and improves combined ligand-aware pass rates over FAIR and PocketGen, indicating better pocket geometry while maintaining global structural consistency.    
+
+ProtLiD² substantially reduces active-site RMSD and improves combined ligand-aware pass rates over FAIR and PocketGen, indicating better pocket geometry while maintaining global structural consistency.    
     
 ---   
   ## Limitations    
