@@ -133,8 +133,15 @@ Current limitations include:
 If you use ProtLiD² in your research, please cite:  
   
 ```bibtex  
-@article{wei2026protlid2,  
- title   = {Ligand-Conditioned Discrete Diffusion for Protein Sequence--Structure Co-Design}, author  = {Wei, Chen and Xu, Fanding and Sun, Minghao and Liu, Zhiyuan and Wang, Lin and Jia, Tianrui and Zhou, Yihang and Zhang, Yang}, journal = {Preprint}, year    = {2026}}  
+@misc{wei2026ligandconditioneddiscretediffusionprotein,
+      title={Ligand-Conditioned Discrete Diffusion for Protein Sequence-Structure Co-Design}, 
+      author={Chen Wei and Fanding Xu and Minghao Sun and Zhiyuan Liu and Lin Wang and Tianrui Jia and Yihang Zhou and Yang Zhang},
+      year={2026},
+      eprint={2605.27413},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.BM},
+      url={https://arxiv.org/abs/2605.27413}, 
+}
 ```  
   
 ---  
